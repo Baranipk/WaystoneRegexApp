@@ -112,3 +112,15 @@ Durum satırı, sorgu oyun içi **50 karakter sınırını** aşarsa uyarır.
   Negasyonlar oyunda test edilmiş tırnaksız biçimi kullanır (örn. `!extra.chaos`); oyun `!"tırnaklı ifade"` desteklemez.
 - The in-game search cannot count mods; the CORRUPT filter is the practical way to separate the 6–8 mod pool.
   Oyun içi arama mod sayamaz; 6–8 mod havuzunu ayırmanın pratik yolu CORRUPT filtresidir.
+
+---
+
+### License / Lisans
+
+Released under the **MIT License** — see [LICENSE](LICENSE). Free to use, modify and redistribute; keep the copyright notice.
+**MIT Lisansı** ile yayınlanmıştır — bkz. [LICENSE](LICENSE). Kullanımı, değiştirilmesi ve dağıtımı serbesttir; telif notunu koruyun.
+
+### Disclaimer / Feragatname
+
+This is an unofficial fan-made tool. It is not affiliated with, endorsed or sponsored by Grinding Gear Games. *Path of Exile* and *Path of Exile 2* are trademarks of Grinding Gear Games.
+Bu, resmi olmayan bir hayran aracıdır. Grinding Gear Games ile bağlantılı değildir, onaylanmamış veya desteklenmemiştir. *Path of Exile* ve *Path of Exile 2*, Grinding Gear Games'in ticari markalarıdır.
