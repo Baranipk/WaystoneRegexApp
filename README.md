@@ -1,3 +1,8 @@
+# for opening program click .exe in publish folder 
+
+# Programı başlatmak için publish klasöründeki .exe uzantılı programı çalıştırın
+
+
 # PoE2 Waystone Regex
 
 **EN** | A regex builder for the *Path of Exile 2* stash search box — build, test, save and share waystone filters without writing regex by hand.
